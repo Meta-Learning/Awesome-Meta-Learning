@@ -1,6 +1,5 @@
 # Awesome-Meta-Learning
 
-标签（空格分隔）： Learning
 
 ---
 
